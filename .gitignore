@@ -1,0 +1,37 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.rar
+
+# project intellij files
+.idea/
+
+# project files
+*.iml
+.pydevproject
+
+# target files
+target/
+
+#node packeges
+node_modules/
+
+#eclipse files
+.classpath
+.project
+.settings/
+
+#local dev
+uploads/
+
+# log folde
+logs/
+tempMoss/
